@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="prefix1">
+    <file>student.png</file>
+    <file>bg.jpg</file>
+    <file>teacher.png</file>
+  </qresource>
+  <qresource prefix="studentLoginImages">
+    <file>StudentLogin.webp</file>
+    <file>TeacherLogin.png</file>
+  </qresource>
+</RCC>
